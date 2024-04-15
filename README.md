@@ -28,16 +28,5 @@ Submissions will be evaluated based on the stability of their predictions over t
 
    \[ \text{stability metric} = \text{mean(gini)} + 88.0 \cdot \text{min}(0, a) - 0.5 \cdot \text{std(residuals)} \]
 
-## Submission Guidelines
 
-Please follow the specific format and file types outlined in the competition rules. Ensure your submission is evaluated correctly by adhering to the required structure for prediction outputs.
 
-## Previous Competitions
-
-For insights into prior models and approaches, check out our [previous competition on Kaggle](https://www.kaggle.com).
-
-## Contributions
-
-Contributors are encouraged to develop innovative models that balance stability and performance. By participating, you help to improve the financial inclusivity of individuals who have historically been underserved by traditional financial institutions.
-
-Thank you for contributing to a more inclusive financial ecosystem!
